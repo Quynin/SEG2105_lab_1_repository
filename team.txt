@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Xander
-=======
-Quinn
->>>>>>> 5e15be6aadb8d539bc7389ebe0b938c1a1a871f5
