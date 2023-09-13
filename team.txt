@@ -1,7 +1,6 @@
-Quinn's team.txt file.
+Quinn
 
-Lab 2 order:
-Everyone pulls (to be up to date)
--> confirm everyone has pulled
--> everyone makes a team.txt file (with some content) and pushes their version to the remote repository
--> everyone except the first to push resolves their conflicts by rebasing.
+Kaitlyn
+
+Xander
+
