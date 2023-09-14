@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 Khalid
+=======
+Quinn
+
+Kaitlyn
+
+Xander
+
+>>>>>>> refs/remotes/origin/main
